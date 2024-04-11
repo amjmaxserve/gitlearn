@@ -1,1 +1,2 @@
 This is my basic git learn short notes
+file1 edited and added new contents
